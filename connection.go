@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	inf "github.com/dazheng/gohive/inf"
+	inf "github.com/linyongzuo/gohive/inf"
 
 	"context"
 
