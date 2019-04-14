@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"time"
 
-	inf "github.com/dazheng/gohive/inf"
+	inf "github.com/linyongzuo/gohive/inf"
 
 	"git.apache.org/thrift.git/lib/go/thrift"
 )
